@@ -1,2 +1,3 @@
 # hello-world2
-help
+
+My Name is Lauren Taylor. Completely new to this so having a practice.
